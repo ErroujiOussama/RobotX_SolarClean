@@ -33,7 +33,7 @@ This serves as a foundation for developing an **autonomous solar panel maintenan
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Train the Model
 ```bash
