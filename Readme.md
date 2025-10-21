@@ -65,3 +65,6 @@ names:
 * The custom YOLOv8 model achieved **high accuracy** in detecting dust on solar panels.
 
 * Training metrics and visual results are available in the `training_results/` folder.
+
+![](training_results/results.png)
+![](training_results/confusion_matrix.png)
